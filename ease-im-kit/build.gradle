@@ -1,6 +1,6 @@
 apply plugin: 'com.android.library'
-//group = "com.hyphenate"//groupId
-
+apply plugin: 'com.github.dcendents.android-maven'
+group='com.github.wuao:ease-im-kit:3.9.9'
 android {
     compileSdkVersion 31
 //    buildToolsVersion "29.0.3"
